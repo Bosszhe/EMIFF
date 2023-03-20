@@ -15,12 +15,12 @@ In autonomous driving, Vehicle-Infrastructure Cooperative 3D Object Detection (V
 
 ### (3) Performance
 * DAIR-V2X-C
-* 
+
 ![performance](./Fig/VIMI_performance.png)
 
 * Compression Impact
 
-![compression](./Fig/CM_3D.png)
+![compression](./Fig/CM_3D.png =960x540)
 
 
 
