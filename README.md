@@ -20,7 +20,9 @@ In autonomous driving, Vehicle-Infrastructure Cooperative 3D Object Detection (V
 
 * Compression Impact
 
-![compression](./Fig/CM_3D.png =960x540)
+<!-- ![compression](./Fig/CM_3D.png =960x540) -->
+
+<img src="./Fig/CM_3D.png" width="480" height="270">
 
 
 
