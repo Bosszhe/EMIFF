@@ -31,9 +31,12 @@ In autonomous driving, Vehicle-Infrastructure Cooperative 3D Object Detection (V
 If you find our work useful in your research, please consider citing:
 
 ```
-@article{spidermesh,
-  title={{VIMI}: Vehicle-Infrastructure Multi-view Intermediate Fusion for Camera-based 3D Object Detection},
-  author={Z. Wang and S. Fan and Y. Wang and J. Liu},
-  journal={arXiv:2303.08692},
-  year={2023}}
+@misc{wang2023vimi,
+      title={VIMI: Vehicle-Infrastructure Multi-view Intermediate Fusion for Camera-based 3D Object Detection}, 
+      author={Zhe Wang and Siqi Fan and Xiaoliang Huo and Tongda Xu and Yan Wang and Jingjing Liu and Yilun Chen and Ya-Qin Zhang},
+      year={2023},
+      eprint={2303.10975},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
 ```
