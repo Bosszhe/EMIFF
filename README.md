@@ -50,14 +50,14 @@ To fully exploit holistic perspectives from both vehicles and infrastructure, we
 
 | Fusion  | Method| Dataset   | AP-3D (IoU=0.5)  | AP-BEV (IoU=0.5) |Config|DownLoad| 
 | :-----: | :--------: | :-------: | :----: | :----: | :----: | :-----: |     
-| VehOnly | ImvoxelNet | VIC-Sync  |   7.29 | 8.85   | [config](cfgs/vic/vic_i/vic_coop_v_imvoxelnet.py)   |\ |
-| InfOnly | ImvoxelNet | VIC-Sync  |   8.66 | 14.41  | [config](cfgs/vic/vic_i/vic_coop_i_imvoxelnet.py)    |\ |
+| Only-Veh | ImvoxelNet | VIC-Sync  |   7.29 | 8.85   | [config](cfgs/vic/vic_v/vic_coop_v_imvoxelnet.py)   |\ |
+| Only-Inf | ImvoxelNet | VIC-Sync  |   8.66 | 14.41  | [config](cfgs/vic/vic_i/vic_coop_i_imvoxelnet.py)    |\ |
 | Late-Fusion | ImvoxelNet | VIC-Sync  | 11.08 | 14.76 |     \ |  \  |
 | Early-Fusion | BEVFormer_S | VIC-Sync  | 8.80   | 13.45 |  [config](cfgs/vic/vicfuser_deform_base_r50_960x540_12e_bs1.py) | [model/log](https://drive.google.com/drive/folders/1wx5wtJ1Cwc30EhSgNZymyl4HrSjz9MXZ?usp=drive_link)|      
 | Early-Fusion | ImVoxelNet | VIC-Sync  |  12.72  | 18.17 |  [config](cfgs/vic/vicfuser_voxel/vicfuser_voxel_r50_960x540_12e_bs2.py) | [model/log](https://drive.google.com/drive/folders/1wx5wtJ1Cwc30EhSgNZymyl4HrSjz9MXZ?usp=drive_link)|  
 | Intermediate-Fusion| EMIFF | VIC-Sync  | 15.61   | 21.44 | [config](cfgs/vic/vimi_960x540_12e_bs2.py)  |  [model/log](https://drive.google.com/drive/folders/1wx5wtJ1Cwc30EhSgNZymyl4HrSjz9MXZ?usp=drive_link)  |             
 
-> We evaluate VehOnly/InfOnly/Late-Fusion model following [OpenDAIRV2X](https://github.com/AIR-THU/DAIR-V2X).
+> We evaluate Only-Veh/Only-Inf/Late-Fusion model following [OpenDAIRV2X](https://github.com/AIR-THU/DAIR-V2X).
 
 ## Acknowledgement
 

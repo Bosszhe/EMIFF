@@ -1,7 +1,7 @@
 # Step-by-step installation instructions
 
 
-Please refer to [getting_started.md](docs/en/getting_started.md) for installation, the same as [**MMDetection3d**](https://mmdetection3d.readthedocs.io/en/latest/getting_started.html#installation) Documentation.
+Please refer to [getting_started.md](getting_started.md) for installation, the same as [**MMDetection3d**](https://github.com/open-mmlab/mmdetection3d) Documentation.
 
 
 

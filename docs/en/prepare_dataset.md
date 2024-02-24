@@ -1,5 +1,5 @@
 # DAIR-V2X
-Download DAIR-V2X-C full dataset data following [OpenDAIRV2X](https://github.com/AIR-THU/DAIR-V2X/tree/main#dataset) or click [here](https://thudair.baai.ac.cn/cooptest) and organize as follows:
+Download DAIR-V2X-C full dataset data following [OpenDAIRV2X](https://github.com/AIR-THU/DAIR-V2X/tree/main#dataset) or click [here](https://thudair.baai.ac.cn/task-cooptest) and organize as follows:
 
 ```
 
