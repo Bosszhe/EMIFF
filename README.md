@@ -1,6 +1,6 @@
 # EMIFF: Enhanced Multi-scale Image Feature Fusion for Vehicle-Infrastructure Cooperative 3D Object Detection
 
-### [Project page](https://github.com/Bosszhe/EMIFF) | [Paper](https://arxiv.org/abs/2303.10975) |
+### [Project page](https://github.com/Bosszhe/EMIFF) | [Paper]([https://arxiv.org/abs/2402.15272) | [VIMI](https://arxiv.org/abs/2303.10975) |
 
 >EMIFF: Enhanced Multi-scale Image Feature Fusion for Vehicle-Infrastructure Cooperative 3D Object Detection
 Zhe Wang, Siqi Fan, Xiaoliang Huo, Tongda Xu, Yan Wang, Jingjing Liu, Yilun Chen, Ya-Qin Zhang.ICRA 2024.
